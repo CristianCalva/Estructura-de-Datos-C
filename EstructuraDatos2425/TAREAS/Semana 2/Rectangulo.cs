@@ -6,7 +6,7 @@ public class Rectangulo{
 
 
 /// <summary>
-/// Contructr de la clase rectangulo
+/// Contructor de la clase rectangulo
 /// </summary>
 /// <param name="_base">La medidad de la base del rectangulo</param>
 /// <param name="_altura">La medidad de la altura del rectangulo</param>
@@ -28,5 +28,4 @@ public class Rectangulo{
     }
 
     
-
     
