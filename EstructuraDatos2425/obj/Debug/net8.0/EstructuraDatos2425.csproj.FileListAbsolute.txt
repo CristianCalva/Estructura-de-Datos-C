@@ -1,0 +1,14 @@
+c:\Users\DELL - i5\OneDrive - Universidad Estatal Amazónica\Escritorio\Estructura de Datos C\EstructuraDatos2425\bin\Debug\net8.0\EstructuraDatos2425.exe
+c:\Users\DELL - i5\OneDrive - Universidad Estatal Amazónica\Escritorio\Estructura de Datos C\EstructuraDatos2425\bin\Debug\net8.0\EstructuraDatos2425.deps.json
+c:\Users\DELL - i5\OneDrive - Universidad Estatal Amazónica\Escritorio\Estructura de Datos C\EstructuraDatos2425\bin\Debug\net8.0\EstructuraDatos2425.runtimeconfig.json
+c:\Users\DELL - i5\OneDrive - Universidad Estatal Amazónica\Escritorio\Estructura de Datos C\EstructuraDatos2425\bin\Debug\net8.0\EstructuraDatos2425.dll
+c:\Users\DELL - i5\OneDrive - Universidad Estatal Amazónica\Escritorio\Estructura de Datos C\EstructuraDatos2425\bin\Debug\net8.0\EstructuraDatos2425.pdb
+c:\Users\DELL - i5\OneDrive - Universidad Estatal Amazónica\Escritorio\Estructura de Datos C\EstructuraDatos2425\obj\Debug\net8.0\EstructuraDatos2425.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\DELL - i5\OneDrive - Universidad Estatal Amazónica\Escritorio\Estructura de Datos C\EstructuraDatos2425\obj\Debug\net8.0\EstructuraDatos2425.AssemblyInfoInputs.cache
+c:\Users\DELL - i5\OneDrive - Universidad Estatal Amazónica\Escritorio\Estructura de Datos C\EstructuraDatos2425\obj\Debug\net8.0\EstructuraDatos2425.AssemblyInfo.cs
+c:\Users\DELL - i5\OneDrive - Universidad Estatal Amazónica\Escritorio\Estructura de Datos C\EstructuraDatos2425\obj\Debug\net8.0\EstructuraDatos2425.csproj.CoreCompileInputs.cache
+c:\Users\DELL - i5\OneDrive - Universidad Estatal Amazónica\Escritorio\Estructura de Datos C\EstructuraDatos2425\obj\Debug\net8.0\EstructuraDatos2425.dll
+c:\Users\DELL - i5\OneDrive - Universidad Estatal Amazónica\Escritorio\Estructura de Datos C\EstructuraDatos2425\obj\Debug\net8.0\refint\EstructuraDatos2425.dll
+c:\Users\DELL - i5\OneDrive - Universidad Estatal Amazónica\Escritorio\Estructura de Datos C\EstructuraDatos2425\obj\Debug\net8.0\EstructuraDatos2425.pdb
+c:\Users\DELL - i5\OneDrive - Universidad Estatal Amazónica\Escritorio\Estructura de Datos C\EstructuraDatos2425\obj\Debug\net8.0\EstructuraDatos2425.genruntimeconfig.cache
+c:\Users\DELL - i5\OneDrive - Universidad Estatal Amazónica\Escritorio\Estructura de Datos C\EstructuraDatos2425\obj\Debug\net8.0\ref\EstructuraDatos2425.dll

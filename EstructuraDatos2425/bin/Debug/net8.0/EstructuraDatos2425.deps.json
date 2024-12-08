@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EstructuraDatos2425/1.0.0": {
+        "runtime": {
+          "EstructuraDatos2425.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EstructuraDatos2425/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
