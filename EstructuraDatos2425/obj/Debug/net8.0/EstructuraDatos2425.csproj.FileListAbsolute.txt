@@ -12,3 +12,4 @@ c:\Users\DELL - i5\OneDrive - Universidad Estatal Amazónica\Escritorio\Estructu
 c:\Users\DELL - i5\OneDrive - Universidad Estatal Amazónica\Escritorio\Estructura de Datos C\EstructuraDatos2425\obj\Debug\net8.0\EstructuraDatos2425.pdb
 c:\Users\DELL - i5\OneDrive - Universidad Estatal Amazónica\Escritorio\Estructura de Datos C\EstructuraDatos2425\obj\Debug\net8.0\EstructuraDatos2425.genruntimeconfig.cache
 c:\Users\DELL - i5\OneDrive - Universidad Estatal Amazónica\Escritorio\Estructura de Datos C\EstructuraDatos2425\obj\Debug\net8.0\ref\EstructuraDatos2425.dll
+c:\Users\DELL - i5\OneDrive - Universidad Estatal Amazónica\Escritorio\Estructura de Datos C\EstructuraDatos2425\obj\Debug\net8.0\EstructuraDatos2425.sourcelink.json

@@ -1,7 +1,7 @@
 
 /// La clase rectangulo encapsula los atributos y proporciona metodos para calcular su area 
 public class Rectangulo{
-    private double Base;
+    private double Base;    /// Atributos privados
     private double Altura;
 
 
