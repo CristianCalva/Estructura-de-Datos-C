@@ -9,6 +9,7 @@ Console.WriteLine("=============================");
 Console.WriteLine("Triangulo-area perimetro");
 Triangulo figura2 = new Triangulo(9,6,9,6,6);
 Console.WriteLine("El area del triangulo es: " + figura2.CalcularArea() );
+Console.WriteLine("El perimetro del triangulo es: " );
 
 Console.WriteLine("=============================");
 Console.WriteLine("rectangulo-area perimetro");
