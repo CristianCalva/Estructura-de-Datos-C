@@ -33,4 +33,13 @@ public class Triangulo{
         return(baseTraingulo * Altura) / 2;
     }
 
+/// <summary>
+/// Metodo para calcular el perimetro del triangulo
+/// </summary>
+/// <returns>Ls suma de los tres lados del triangulo</returns>
+
+    public double CalcularPerimetro(){
+        return Lado1 + Lado2 + Lado3;
+    }
+    
     }
