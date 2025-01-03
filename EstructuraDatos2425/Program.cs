@@ -1,5 +1,6 @@
 ﻿using System.Timers;
 
+
 Console.WriteLine("=============================");
 Console.WriteLine("Universidad Estatal Amazonica");
 Console.WriteLine("=============================");
@@ -8,6 +9,7 @@ Console.WriteLine("=============================");
 Console.WriteLine("Cristian Paul Calva Abad");
 Console.WriteLine("=============================");
 Console.WriteLine();
+
 
 Console.WriteLine("=============================");
 Console.WriteLine("Triangulo-area perimetro");
