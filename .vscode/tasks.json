@@ -1,0 +1,15 @@
+{
+
+		"version": "2.0.0",
+		"tasks": [
+			{
+				"type": "dotnet",
+				"task": "build c:/Users/DELL - i5/OneDrive - Universidad Estatal Amazónica/Escritorio/Estructura de Datos C/MiProyecto/MiProyecto.csproj",
+				"file": "c:/Users/DELL - i5/OneDrive - Universidad Estatal Amazónica/Escritorio/Estructura de Datos C/MiProyecto/MiProyecto.csproj",
+				"group": "build",
+				"problemMatcher": [],
+				"label": "dotnet: build c:/Users/DELL - i5/OneDrive - Universidad Estatal Amazónica/Escritorio/Estructura de Datos C/MiProyecto/MiProyecto.csproj"
+			},
+			
+		]
+	}

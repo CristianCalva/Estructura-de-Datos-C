@@ -20,4 +20,5 @@ Console.WriteLine("El perimetro del triangulo es: " + figura2.CalcularPerimetro(
 Console.WriteLine("=============================");
 Console.WriteLine("Rectangulo-area perimetro");
 Rectangulo figura1 = new Rectangulo(7,10);
+
 Console.WriteLine("El area del rectangulo es: " + figura1.Area() );
