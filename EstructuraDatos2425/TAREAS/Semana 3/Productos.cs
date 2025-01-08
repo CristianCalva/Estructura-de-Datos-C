@@ -1,7 +1,6 @@
+public static class semana3{
 
-using System;
-
-// Clase que representa un producto
+    // Clase que representa un producto
 class Producto
 {
     // Propiedades del producto
@@ -28,5 +27,12 @@ class Producto
         {
             Console.WriteLine($"  Precio {i + 1}: {Precios[i]:C}");
         }
+    }
+}
+
+
+    public static void run(){
+        Producto miproducto = new Producto(1,"esfero", "unidad", [1,2,3]);
+        miproducto.MostrarInformacion(); 
     }
 }
