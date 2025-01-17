@@ -1,4 +1,4 @@
-using System;
+
 
 class Nodo(int dato)
 {
@@ -145,10 +145,14 @@ class Semana6
 
         // Leer el rango de valores desde el teclado
         Console.Write("Ingrese el valor mínimo: ");
+#pragma warning disable CS8604 // Posible argumento de referencia nulo
         int min = int.Parse(Console.ReadLine());
+#pragma warning restore CS8604 // Posible argumento de referencia nulo
 
         Console.Write("Ingrese el valor máximo: ");
+#pragma warning disable CS8604 // Posible argumento de referencia nulo
         int max = int.Parse(Console.ReadLine());
+#pragma warning restore CS8604 // Posible argumento de referencia nulo
 
         // Eliminar nodos fuera del rango
         lista2.EliminarFueraDeRango(min, max);
