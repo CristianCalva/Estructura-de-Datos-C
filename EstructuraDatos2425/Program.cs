@@ -1,4 +1,5 @@
 ﻿
+
 Console.WriteLine("++++++++++++++++++++++++++++++");
 Console.WriteLine("UNIVERSIDAD ESTATAL AMAZONICA");
 Console.WriteLine("++++++++++++++++++++++++++++++");
@@ -18,5 +19,5 @@ Console.WriteLine("");
 //Semana7.run();
 //Console.WriteLine("");
 //Console.WriteLine("Aqui se imprime el resultado de Torres de Hanoi");
-//TorreDeHanoi.run(3)
-Semana8.run();
+//TorreDeHanoi.run(3);
+Cola.Run();
