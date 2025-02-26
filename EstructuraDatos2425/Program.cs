@@ -21,4 +21,5 @@ Console.WriteLine("");
 //Console.WriteLine("Aqui se imprime el resultado de Torres de Hanoi");
 //TorreDeHanoi.run(3);
 //Cola.Run();
-Conjunto.run();
+//Conjunto.run;
+Traductor.Run();
