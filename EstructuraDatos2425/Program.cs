@@ -1,5 +1,4 @@
 ﻿
-
 Console.WriteLine("++++++++++++++++++++++++++++++");
 Console.WriteLine("UNIVERSIDAD ESTATAL AMAZONICA");
 Console.WriteLine("++++++++++++++++++++++++++++++");
@@ -22,4 +21,5 @@ Console.WriteLine("");
 //TorreDeHanoi.run(3);
 //Cola.Run();
 //Conjunto.run;
-Traductor.Run();
+//Traductor.Run();
+Torneo.Run();
