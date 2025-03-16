@@ -1,3 +1,5 @@
+﻿
+using System.Data.Common;
 
 Console.WriteLine("++++++++++++++++++++++++++++++");
 Console.WriteLine("UNIVERSIDAD ESTATAL AMAZONICA");
@@ -23,4 +25,4 @@ Console.WriteLine("");
 //Conjunto.run;
 //Traductor.Run();
 //Torneo.Run();
-
+CatalogoRevistas.Run();
