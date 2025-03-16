@@ -1,5 +1,5 @@
 // Clase principal para gestionar el torneo de fútbol
-class Torneo
+class Torneo  
 {
     // Diccionario para almacenar los equipos y sus jugadores
     static Dictionary<string, HashSet<string>> equipos = new Dictionary<string, HashSet<string>>();
