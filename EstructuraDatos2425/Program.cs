@@ -1,4 +1,4 @@
-﻿
+
 Console.WriteLine("++++++++++++++++++++++++++++++");
 Console.WriteLine("UNIVERSIDAD ESTATAL AMAZONICA");
 Console.WriteLine("++++++++++++++++++++++++++++++");
@@ -22,4 +22,5 @@ Console.WriteLine("");
 //Cola.Run();
 //Conjunto.run;
 //Traductor.Run();
-Torneo.Run();
+//Torneo.Run();
+
